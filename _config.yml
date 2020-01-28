@@ -14,7 +14,7 @@ description: inventariseren en evalueren van dorsteekjes en trage wegen
 #url: "https://example.com"
 
 # baseurl should be an empty string
-baseurl: "https://tragewegen.github.io/hasselt/"
+baseurl: ""
 
 # --- Navigation bar options --- #
 

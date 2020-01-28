@@ -6,7 +6,7 @@ subtitle: Why you'd want to go on a date with me
 
 kies een hokje en ga op ontdekking:
 
-<iframe name="htmlComp-iframe" scrolling="auto" src="https://qgiscloud.com/tragewegen/opmaak_webkaart/?bl=&amp;st=&amp;l=achtergrondkaart%2Cstadsgrens%2Cdistrictgrens%2Cverwerking_inventaris&amp;t=opmaak_webkaart&amp;e=150524%2C210353%2C160684%2C215052" width="100%" height="500%"></iframe>
+<iframe name="htmlComp-iframe" scrolling="auto" src="https://qgiscloud.com/tragewegen/opmaak_webkaart/?bl=&amp;st=&amp;l=achtergrondkaart%2Cstadsgrens%2Cdistrictgrens%2Cverwerking_inventaris&amp;t=opmaak_webkaart&amp;e=150524%2C210353%2C160684%2C215052" width="100%" height="600"></iframe>
 
 ### my history
 

@@ -1,10 +1,9 @@
 ---
 layout: page
 title: in kaart
-subtitle: Why you'd want to go on a date with me
+subtitle: kies een hokje en ga op ontdekking
 ---
 
-kies een hokje en ga op ontdekking:
 
 <iframe src="https://qgiscloud.com/tragewegen/buurtwegopzoeken_qgiscloud/?" style="border:none;" width="100%" height="600"></iframe>
 

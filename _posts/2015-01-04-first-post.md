@@ -1,7 +1,7 @@
 ---
 layout: post
-title: First post!
+title: welkom!
 image: /img/hello_world.jpeg
 ---
 
-This is my first post, how exciting!
+Welkom in Hasselt!
